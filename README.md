@@ -1,5 +1,6 @@
 # CommandMonitoring-CLIENT
 自分の打ったコマンドを確認することができる5zigプラグイン
+
 チャット欄クリックとか、本に埋め込まれてるコマンドも確認できるよ。
 
 # Download
